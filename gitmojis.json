@@ -592,5 +592,13 @@
       "name": "apple",
       "semver": null
     },
+    {
+      "emoji": "🐧",
+      "entity": "",
+      "code": ":linux:",
+      "description": "Linux platform",
+      "name": "linux",
+      "semver": null
+    },
   ]
 }
