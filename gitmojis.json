@@ -584,5 +584,13 @@
       "name": "kubernetes",
       "semver": null
     },
+    {
+      "emoji": "🍎",
+      "entity": "",
+      "code": ":apple:",
+      "description": "Apple platform",
+      "name": "apple",
+      "semver": null
+    },
   ]
 }
