@@ -576,5 +576,13 @@
       "name": "docker",
       "semver": null
     },
+    {
+      "emoji": "☸️",
+      "entity": "",
+      "code": ":kubernetes:",
+      "description": "Kubernets related changes",
+      "name": "kubernetes",
+      "semver": null
+    },
   ]
 }
