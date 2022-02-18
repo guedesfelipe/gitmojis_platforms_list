@@ -559,6 +559,14 @@
       "description": "Improve developer experience",
       "name": "technologist",
       "semver": null
+    },
+    {
+      "emoji": "☁️",
+      "entity": "",
+      "code": ":cloud:",
+      "description": "Cloud infrastructure related changes",
+      "name": "cloud",
+      "semver": null
     }
   ]
 }
