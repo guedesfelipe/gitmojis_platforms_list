@@ -567,6 +567,14 @@
       "description": "Cloud infrastructure related changes",
       "name": "cloud",
       "semver": null
-    }
+    },
+    {
+      "emoji": "🐳",
+      "entity": "",
+      "code": ":docker:",
+      "description": "Docker related changes",
+      "name": "docker",
+      "semver": null
+    },
   ]
 }
