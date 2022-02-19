@@ -600,5 +600,13 @@
       "name": "linux",
       "semver": null
     },
+    {
+      "emoji": "🏁",
+      "entity": "",
+      "code": ":windows:",
+      "description": "Windows platform",
+      "name": "windows",
+      "semver": null
+    },
   ]
 }
