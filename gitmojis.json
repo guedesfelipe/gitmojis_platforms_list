@@ -608,5 +608,13 @@
       "name": "windows",
       "semver": null
     },
+    {
+      "emoji": "🧫",
+      "entity": "",
+      "code": ":petri_dish:",
+      "description": "VMs or Container configuration",
+      "name": "petri_dish",
+      "semver": null
+    },
   ]
 }
