@@ -19,3 +19,15 @@ To update gitmoji-cli with the new emojis:
 ```bash
 gitmoji -u
 ```
+
+## New Emojis List
+
+| New Emojis | Description                          |
+|------------|--------------------------------------|
+|      ☁️     | Cloud infrastructure related changes |
+|      🐳    | Docker related changes               |
+|      ☸️     | Kubernetes related changes           |
+|      🍎    | Apple platform                       |
+|      🐧    | Linux platform                       |
+|      🏁    | Windows platform                     |
+|      🧫    | VMs or Container configuration       |
