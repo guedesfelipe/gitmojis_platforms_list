@@ -580,7 +580,7 @@
       "emoji": "☸️",
       "entity": "",
       "code": ":kubernetes:",
-      "description": "Kubernets related changes",
+      "description": "Kubernetes related changes",
       "name": "kubernetes",
       "semver": null
     },
