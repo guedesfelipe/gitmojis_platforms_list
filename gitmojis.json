@@ -615,6 +615,6 @@
       "description": "VMs or Container configuration",
       "name": "petri_dish",
       "semver": null
-    },
+    }
   ]
 }
