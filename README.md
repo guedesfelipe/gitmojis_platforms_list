@@ -12,7 +12,9 @@ An emoji guide for your commit messages with platforms list. Inspirated in [Gitm
 gitmoji -g
 ```
 
-**Set gitmojis api url** set this url: `https://raw.githubusercontent.com/guedesfelipe/gitmojis_platforms_list/main/gitmojis.json`
+In **Set gitmojis api url**: `https://raw.githubusercontent.com/guedesfelipe/gitmojis_platforms_list/main/gitmojis.json`
+
+To update gitmoji-cli with the new emojis:
 
 ```bash
 gitmoji -u
