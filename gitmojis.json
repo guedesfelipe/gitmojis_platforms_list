@@ -615,6 +615,14 @@
       "description": "VMs or Container configuration",
       "name": "petri_dish",
       "semver": null
+    },
+    {
+      "emoji": "💸",
+      "entity": "&#x1F4B8;",
+      "code": ":money_with_wings:",
+      "description": "Add sponsorships or money related infrastructure.",
+      "name": "money-with-wings",
+      "semver": null
     }
   ]
 }
